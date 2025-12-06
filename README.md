@@ -19,8 +19,8 @@ Way Finder is a lightweight Bash script designed to assist bug bounty hunters in
 ## **Installation**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/tool-name.git
-   cd tool-name
+   git clone https://github.com/yourusername/wayfinder.git
+   cd wayfinder
    ```
 
 2. Make the script executable:  
